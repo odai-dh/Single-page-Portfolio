@@ -23,7 +23,10 @@
 html,
 body {
   overflow-x: hidden;
+<<<<<<< HEAD
   scroll-behavior: smooth;
+=======
+>>>>>>> origin/main
 }
 
 html {
